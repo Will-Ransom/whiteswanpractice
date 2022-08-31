@@ -1,0 +1,80 @@
+body {
+  margin: 0px;
+}
+
+.navbar {
+    background-color: bisque;
+    overflow: hidden;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    color: #70444F;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 250px;
+  color: #70444F;
+  float: left;
+  margin-top: 10px;
+  margin-left: 330px;
+  margin-bottom: 30px;
+  font-family: "Brush Script MT";
+}
+
+.logo {
+  height: 250px;
+  width: auto;
+  margin-right: 200px;
+}
+
+.maincontent {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.description {
+  float: left;
+  font-size: 30px;
+  width: 50%;
+  margin-left: 500px;
+  margin-right: 150px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+table, th, td {
+  border: 2px solid;
+  border-collapse: collapse;
+  border-color: #70444F;
+  font-family: 'Times New Roman', Times, serif;
+}
+  
+.pic {
+  display: inline-block;
+}
+
+.picdiv {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: bisque;
+  font-size: 30px;
+  color: #70444F;
+  font-weight: bold;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
